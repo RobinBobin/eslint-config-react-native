@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - '@robinbobin/eslint-config'
+  - '@robinbobin/eslint-config-react'
+  - '@robinbobin/prettier-config'
+  - '@robinbobin/ts-config'
+  - unrs-resolver
