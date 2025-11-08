@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@robinbobin/eslint-config':
+        specifier: ^1.0.2
+        version: 1.0.2(@typescript-eslint/utils@8.46.3(eslint@9.39.1)(typescript@5.9.3))(eslint@9.39.1)(typescript@5.9.3)
       '@robinbobin/eslint-config-react':
         specifier: ^1.0.3
         version: 1.0.3(@typescript-eslint/utils@8.46.3(eslint@9.39.1)(typescript@5.9.3))(eslint@9.39.1)(typescript@5.9.3)

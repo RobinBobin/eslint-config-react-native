@@ -4,6 +4,7 @@
     "url": "https://github.com/RobinBobin/eslint-config-react-native/issues"
   },
   "dependencies": {
+    "@robinbobin/eslint-config": "^1.0.2",
     "@robinbobin/eslint-config-react": "^1.0.3"
   },
   "devDependencies": {
